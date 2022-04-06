@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: #2c3e3b;
+}
+.rohit{
+    height: 200px;
+}
+.p{
+    line-height: 2;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size:5.625rem;
+    color: #66bfbf;
+}
+h2{
+    padding-bottom: 10px;
+    color: #66bfbf;
+    font-size: 2.5rem;
+}
+h3{
+    color: #11999e;
+}
+.title{
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 2.5rem;
+    margin-top: 5px;
+    color: #11999e;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.container0{
+    position: relative;
+    padding-top: 100px ;
+    background-color: rgb(222, 236, 236);
+}
+.intro{
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+
+.bottom-cloud{
+    position: absolute;
+    top: 200px;
+    left: 250px;
+}
+.upper-cloud{
+    position: absolute;
+    top: 40px;
+    right: 300px;
+}
+.middle-container{
+    font-family: 'Patrick Hand', cursive;
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px ;
+}
+.anime{
+    float: left;
+    width: 24%;
+    margin-left:65px;
+    margin-right: 15%;
+}
+.website{
+    width: 45%;
+    margin-right: 10px;
+    float: right;
+}
+hr{
+  border: dotted #899292 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px ;
+}
+.copyright-text{
+    color: #eaf6f6;
+    font-size: .75rem ;
+    padding: 40px 0 ;
+}
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Patrick Hand', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    text-decoration: none;
+  }
+  a{
+      color: #0b6366;
+      font-family: 'Patrick Hand', cursive; 
+      margin: 10px 20px;
+      text-decoration: none;
+  }
+  a:hover{
+      color: #eaf6f6;
+  }
